@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    margin-bottom: 2rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 200px;
+  }
+  
+  button[type="submit"] {
+    background-color: #4a154b;
+    color: white;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  .login{
+    margin-left: 100px;
+  }
+  .sign{
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: -35%;
+    padding-left: 40px;
+  }
+  .we{
+    font-size: 20px;
+    padding-bottom: 15px;
+    
+  }
+  .button1{
+    width:400px;
+    height:40px;
+    
+  }
+  .button2{
+    width:400px;
+    height:40px;
+  }
+  .buttons{
+    padding-left: 1px;
+
+  }
+  .or{
+    padding-left: 200px;
+  }
+  

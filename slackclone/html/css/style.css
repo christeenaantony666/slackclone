@@ -1,0 +1,454 @@
+* {
+    box-sizing: border-box !important;
+    transition: ease all 0.5s;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #666666;
+    font-size: 14px;
+    font-family: Poppins;
+    line-height: 1.80857;
+    font-weight: normal;
+    overflow-x: hidden;
+}
+ul {
+    list-style-type: none;
+   
+   
+    
+  }
+  
+  li {   
+    float: left;
+    padding-left: 5%;
+   
+   
+    
+  }
+ 
+  
+  li a {
+    display: block;
+    font-size: 25px;
+    padding-left: 20%;
+
+   
+
+    
+    
+
+    
+    
+    
+}
+    
+  
+.bg-light {
+    background-color: #4a154b!important;
+}
+
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #fcfefe;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #efe4d1;
+}
+.bg-light2 {
+    background-color: #F4EDE4!important;
+}
+.bg-light3 {
+    background-color: #ffff!important;
+}
+.container{
+    position: relative;
+}
+.images {
+
+    display:flex;
+    justify-content: center;
+    
+  }
+  .images > div {
+    border: 1px solid #000;
+    margin:2px;
+  }
+  .box1{
+   max-width: 260em;
+   min-height:330px;
+   background-color: #4a154b;
+   padding-left: 10%;
+  }
+  .box1{
+    max-width:260px;
+    min-height:330px;
+    background-color: #4a154b;
+    padding-left: 10%;
+  }
+   
+  
+   .box2{
+    max-width: 260px;
+    min-height:330px;
+    background-color: #4a154b;
+    padding-left: 10%;
+  }
+   
+   .box3{
+    max-width:260px;
+    min-height:330px;
+    background-color: #4a154b;
+    padding-left: 10%;
+  }
+   
+   .box4{
+   max-width:260px;
+    min-height:330px;
+    background-color: #4a154b;
+    padding-left: 10%;
+  }
+   
+   .lgbox{
+    max-width:100%;
+    min-height:310px;
+    
+    background-color: #4a154b;
+    clip-path: ellipse(75% 100% at center top);
+       
+    
+   }
+   .container-fluid.first{
+    max-width: 1500px;
+    background-color: #4a154b;
+    min-height:550px;
+    
+   }
+   .H1{
+    font-family:  Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: white;
+    font-style: bold;
+    font-weight: 640;
+    font-size: 55px;
+    margin-left: 120px;
+    
+   }
+   .H2{
+    margin-left: 120px;
+    font-family:  Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #ecb22e;
+    font-style: bold;
+    font-weight: 640;
+    font-size: 55px;
+   }
+     
+ 
+  
+ .logo1{
+    margin-top: 40px;
+    margin-left: 50px;
+ }
+ .P1{
+    color: white;
+    margin-left: 120px;
+    font-size: 18px;
+    font-family:  Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: expanded;
+ }
+ p5{
+    color: white;
+    margin-left: 120px;
+    font-size: 18px;
+    font-family:  Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: expanded;
+ }
+ .Trust{
+    color:#000;
+    padding-left: 40%;
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-style: bold;
+    font-weight: 550;
+    }
+.des{
+    margin-top:50px;
+}
+.container-fluid.second{
+    max-width: 1500px;
+    background-color:#F4EDE4;
+    min-height:1200px;
+    
+}
+.images{
+    padding-right:150px;
+
+}
+.Bring{
+    font-size: 50px;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    padding-left: 10%;
+    padding-top: 15%;
+}
+.P2{
+    color: black;
+    padding-left: 40%;
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-stretch: expanded;
+    font-weight: 530;
+    font-size:16px;
+    padding-left: 10%;
+   }
+   p1,p2,p3,p4{
+    color: black;
+    
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    
+    font-weight: 530;
+    font-size:16px;
+    padding-left: 10%;
+   }
+   .Choose{
+    font-size: 50px;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    padding-left: 10%;
+    padding-top: 15%;
+}
+.Move{
+    font-size: 50px;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    padding-left: 10%;
+    padding-top: 15%;
+}
+.Teams{
+    font-size: 50px;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 6%;
+    
+}
+.slack{
+    color: black;
+    
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    
+    font-weight: 530;
+    font-size:16px;
+    padding-left: 30%;
+    padding-top: 2%;
+}
+.button3{
+    background-color: #4a154b;
+    color: white;
+    padding-left: 60%;
+}
+.eightyfive,.eightysix,.eightyeight{
+     color: #4a154b;
+     font-size: 60px;
+   
+     font-weight: bolder;
+
+}
+p6,p7{
+    font-size: 12px;
+    font-weight: 300;
+    color: black;
+   
+}
+.eightyfiveh,.eightysixh,.eightyeighth{
+  padding-top: 40%;
+  padding-left: 79%;
+  
+}
+.quote{
+    padding-top:8%;
+}
+.We{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif ;
+    font-weight: 100;
+
+}
+.Mark{
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: left;
+}
+.Senior{
+    font-size: 15px;
+    font-weight: 500;
+}
+.Take{
+    font-size: 30px;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 3%;
+}
+.container-fluid.third{
+    max-width: 1500px;
+    background-color:#F4EDE4;
+   }
+   .boxes{
+    
+    padding-top: 2%;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    
+   }
+   .img1{
+    
+    padding-top: 20%;
+    padding-right: 150%;
+   }
+ 
+
+   
+   .HQ{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    align-self: auto;
+    text-align: left;
+   
+    text-align-last: justify;
+
+
+   }
+   .box1item{
+    padding-top: 10%;
+    padding-left: 12%;
+    
+    
+   }
+   .box2item{
+    padding-top: -5%;
+    padding-left: 8%;
+    
+    
+   }
+   .Big{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    align-self: auto;
+    text-align: left;
+    padding-left: 10%;
+   
+           text-align-last: justify;
+   }
+   .img2{
+    
+    padding-top: 10%;
+    padding-right: 150%;
+   }
+   .box3item{
+    padding-top: -5%;
+    padding-left: 8%;
+    
+    
+   }
+   .Win{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    align-self: auto;
+    text-align: left;
+    padding-left: 10%;
+   
+           text-align-last: justify;
+   }
+   .img3{
+    
+    padding-top: 10%;
+    padding-right: 150%;
+   }
+   .box4item{
+    padding-top: -5%;
+    padding-left: 8%;
+    
+    
+   }
+   .R{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    align-self: auto;
+    text-align: left;
+    padding-left: 10%;
+   
+           text-align-last: justify;
+   }
+   .img4{
+    
+    padding-top: 10%;
+    padding-right: 150%;
+   }
+   .welcome{
+        font-size: 50px;
+        font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+        color:white;
+        font-weight: 600;
+        text-align: center;
+        padding-top: 6%;
+   }
+   .head{
+    color:#000;
+    
+    font-family:Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 550;
+    font-size: 15px;
+    padding-top: 6%;
+    
+   }
+   .imgteam{
+    padding-left: 60px;
+    padding-top: 150px;
+   }
+   .imgwork{
+    padding-left: 200px;
+    padding-top: 120px;
+   }
+   .imgtools{
+    padding-left: 60px;
+    padding-top: 100px;
+
+   }
+   .imgicons{
+    margin-left: 100px;
+   }
+   .button3{
+    color:#000;
+   }
+   .final{
+     padding-left: 200px;
+   }
+   .imgicon{
+    padding-left: 470px;
+    padding-top: 10px;
+   }
